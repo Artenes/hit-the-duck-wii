@@ -20,7 +20,7 @@ You can also play it on a emulator for Nintendo Wii, like Dolphin. But since the
 
 The game is in the ``dist`` folder. Put the files in a SD card, insert in your Nintendo Wii, launch the Homebrew channel and play the game. If you are using an emulator, you need to put the ``dist/data`` folder inside the virtual sd card of the emulator, so the game can find the images that it is using.
 
-# Conttribute
+# Contribute
 
 If you want to edit the source code and compile, just download the DevkitPro PPC package, that will include all the necessary binaries and also a little IDE (Programmer's notepad) that will make the compilation proccess a little easier. After downloading and installing everything, just open up the project that is inside the ``source`` folder and you are good to go.
 
