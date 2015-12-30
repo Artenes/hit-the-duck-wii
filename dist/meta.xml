@@ -1,0 +1,9 @@
+<?xml version="1.2" encoding="UTF-8" standalone="yes"?>
+<app version="1.2">
+	<name>Hit the Duck</name>
+	<coder>Mídias Eletrônicas</coder>
+	<version>1.2.2</version>
+	<short_description>Acerte o maior número de patos no tempo limite</short_description> 
+	<long_description> Jogo feito com o uso da biblioteca LibWiiSprite. O objetivo do jogo é acertar o maio número possível de patos, no decorrer de três níveis, antes que o tempo se esgote, fazendo uso do infra-vermelho do Wii Mote</long_description> 
+</app>
+
