@@ -6,11 +6,11 @@ DISCLAIMER:
 
 # Hit the Duck for Nintendo Wii
 
-![Hit the duck screen shot](screenshots\first.png)
+![Hit the duck screen shot](screenshots/first.png)
 
 A homebrew target shooter game for Nintendo Wii where you shoot ducks in three different stages! It uses the Wiimote IR to create a cursor on the screen that you use to aim and shoot at the ducks. In the end it will display how many ducks you have hit.
 
-![Hit the duck screen shot](screenshots\second.png)
+![Hit the duck screen shot](screenshots/second.png)
 
 # Play the game 
 
